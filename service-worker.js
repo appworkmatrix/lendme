@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/lendme/precache-manifest.15322c227049ef7f3cbc2ad975c285cb.js"
+  "/lendme/precache-manifest.838984553411fc5e3d23c9a49b62af1e.js"
 );
 
 workbox.clientsClaim();

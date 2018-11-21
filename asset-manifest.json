@@ -1,14 +1,15 @@
 {
-  "main.css": "/lendme/static/css/main.2803efc2.chunk.css",
-  "main.js": "/lendme/static/js/main.cb3590e1.chunk.js",
-  "main.js.map": "/lendme/static/js/main.cb3590e1.chunk.js.map",
-  "static/js/1.2dd891c4.chunk.js": "/lendme/static/js/1.2dd891c4.chunk.js",
-  "static/js/1.2dd891c4.chunk.js.map": "/lendme/static/js/1.2dd891c4.chunk.js.map",
+  "main.css": "/lendme/static/css/main.2aff8a86.chunk.css",
+  "main.js": "/lendme/static/js/main.3a3e6c62.chunk.js",
+  "main.js.map": "/lendme/static/js/main.3a3e6c62.chunk.js.map",
+  "static/css/1.f153004d.chunk.css": "/lendme/static/css/1.f153004d.chunk.css",
+  "static/js/1.ceb33c18.chunk.js": "/lendme/static/js/1.ceb33c18.chunk.js",
+  "static/js/1.ceb33c18.chunk.js.map": "/lendme/static/js/1.ceb33c18.chunk.js.map",
   "runtime~main.js": "/lendme/static/js/runtime~main.23d44ac2.js",
   "runtime~main.js.map": "/lendme/static/js/runtime~main.23d44ac2.js.map",
-  "static/media/logo.svg": "/lendme/static/media/logo.5d5d9eef.svg",
-  "static/css/main.2803efc2.chunk.css.map": "/lendme/static/css/main.2803efc2.chunk.css.map",
+  "static/css/1.f153004d.chunk.css.map": "/lendme/static/css/1.f153004d.chunk.css.map",
+  "static/css/main.2aff8a86.chunk.css.map": "/lendme/static/css/main.2aff8a86.chunk.css.map",
   "index.html": "/lendme/index.html",
-  "precache-manifest.15322c227049ef7f3cbc2ad975c285cb.js": "/lendme/precache-manifest.15322c227049ef7f3cbc2ad975c285cb.js",
+  "precache-manifest.838984553411fc5e3d23c9a49b62af1e.js": "/lendme/precache-manifest.838984553411fc5e3d23c9a49b62af1e.js",
   "service-worker.js": "/lendme/service-worker.js"
 }
